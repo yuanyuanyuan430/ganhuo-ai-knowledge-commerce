@@ -4,7 +4,7 @@ ganhuo-ai-knowledge-commerce is a Codex Skill for building a repeatable AI-assis
 
 ## Minimum Input
 
-The skill works best with a niche, target user, current stage, available sources and permissions, owned experience or test logs, target channels, paid deliverable, rough price range, available tools, and forbidden claims.
+The skill works best with a niche, target user, current stage, available sources and permissions, owned experience or test logs, target channels, paid deliverable, rough price range, available tools, and the expressions the operator wants to strengthen.
 
 ## Core Workflow
 

@@ -8,11 +8,12 @@ ganhuo-ai-knowledge-commerce helps creators, operators, consultants, educators, 
 
 Given a niche and available source material, it returns a pipeline brief with product positioning, source-card schema, knowledge-base structure,公众号 template, 知识星球 weekly rhythm, automation boundaries, and a 30/60/90-day rollout.
 
-The goal is to improve content velocity, trust, source traceability, and paid conversion without turning AI rewriting into a shortcut for copied material.
+The goal is to improve content velocity, trust, source traceability, and paid conversion by turning expertise, source cards, publishing rhythm, and community delivery into a repeatable operating system.
 
 ## Key Files
 
 - [README](https://github.com/yuanyuanyuan430/ganhuo-ai-knowledge-commerce#readme)
+- [PROMPTS](https://github.com/yuanyuanyuan430/ganhuo-ai-knowledge-commerce/blob/main/PROMPTS.md)
 - [Skill Instructions](https://github.com/yuanyuanyuan430/ganhuo-ai-knowledge-commerce/blob/main/SKILL.md)
 - [Checklist](https://github.com/yuanyuanyuan430/ganhuo-ai-knowledge-commerce/blob/main/references/checklist.md)
 - [Platform Map](https://github.com/yuanyuanyuan430/ganhuo-ai-knowledge-commerce/blob/main/references/platform-map.md)
