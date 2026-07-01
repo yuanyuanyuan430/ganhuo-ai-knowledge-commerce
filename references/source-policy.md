@@ -27,23 +27,28 @@ permission_status:
 allowed_use:
 forbidden_use:
 contains_personal_info:
+consent_status:
+redaction_required:
+retention_period:
 key_points:
 original_angle:
 risk_note:
 reviewer:
 ```
 
-## Higher-Risk Signals
+## Prohibited Or Restricted Source Rules
 
-Improve stability by avoiding sources that look like:
+Do not use these as commercial source material unless the operator has clear written rights and a defensible reason:
 
-- paid community exports;
-- course backend screenshots;
-- group chat logs;
-- full article dumps;
+- paid community exports without permission;
+- course backend screenshots or member-only pages without permission;
+- group chat logs without consent from the people involved;
+- full article dumps or creator archives;
 - copied tables, templates, or cases from a single creator;
 - user reviews, income screenshots, or private data without permission;
 - material advertised as internal, exclusive, leaked, or cracked.
+
+If a source is public on the web, still check the site's terms, robots guidance, copyright notice, license, and attribution requirements. Public visibility does not automatically mean commercial reuse is allowed.
 
 ## Rewrite Rule
 

@@ -2,6 +2,10 @@
 
 ganhuo-ai-knowledge-commerce is a Codex Skill for building a repeatable AI-assisted knowledge-commerce pipeline. It is useful when a user wants to turn a niche, expertise, sources, and AI tools into an operating system for公众号 content, 知识星球 delivery, private-domain follow-up, and weekly data review.
 
+## Minimum Input
+
+The skill works best with a niche, target user, current stage, available sources and permissions, owned experience or test logs, target channels, paid deliverable, rough price range, available tools, and forbidden claims.
+
 ## Core Workflow
 
 1. Define the paid offer: niche, user pain, transformation, price ladder, proof, and delivery scope.
@@ -22,6 +26,8 @@ ganhuo-ai-knowledge-commerce is a Codex Skill for building a repeatable AI-assis
 - n8n for intake, orchestration, human gates, and draft creation.
 - WeChat Official Account draft creation with human final publish approval.
 - 知识星球 manual publishing and member operation.
+
+Every platform action should default to draft, pending approval, or internal review. Public publishing should use official platform capabilities and keep a human approval record.
 
 ## Output
 

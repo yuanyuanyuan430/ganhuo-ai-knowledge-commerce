@@ -1,11 +1,20 @@
 # Prompt Pack
 
+Run prompts in this order:
+
+1. Source cards: create or audit source records.
+2. Topic scoring: pick the strongest article angles.
+3. Outline: turn one angle into a publishable structure.
+4. Draft review: improve trust, completion, and conversion clarity.
+5. Knowledge Planet post: convert public content into member delivery.
+6. Weekly review: decide what to repeat, change, or stop.
+
 ## Topic Scoring
 
 ```text
 基于下面的来源卡和目标用户，给我 10 个可写选题。
 每个选题输出：标题方向、用户痛点、可交付结果、可引用来源、需要补充的人类经验、风险点、推荐优先级。
-只输出 JSON 表格。
+输出 JSON array 或 Markdown table。
 ```
 
 ## Outline

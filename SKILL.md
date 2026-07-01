@@ -11,9 +11,23 @@ Apply this skill to turn a knowledge-product idea into a repeatable operating sy
 
 Keep the posture growth-oriented: improve source quality, improve content velocity, improve trust, improve conversion, and lower avoidable complaint, copyright, platform, and refund risk. Avoid treating AI rewriting as a magic cleanup layer; treat AI as the production assistant and the human operator as the editor, source owner, and final publisher.
 
+## Minimum Input Packet
+
+Collect or infer these fields before building the brief. If the user gives too little context, ask only for the missing fields that would materially change the output; otherwise state assumptions and produce a first draft.
+
+- niche or category;
+- target user and current pain;
+- current stage: idea, first articles, existing audience, existing paid product, or optimization;
+- available sources and their permission status;
+- owned experience, test logs, screenshots, cases, or user questions;
+- target channels: 公众号, 知识星球, 飞书知识库, 企微, 朋友圈, 小红书, or other;
+- paid deliverable and rough price range;
+- available tools: Feishu, n8n, RAG tool, WeChat account, analytics, CRM;
+- forbidden claims, sensitive topics, and platform constraints.
+
 ## Workflow
 
-1. Define the offer: niche, user pain, promised deliverable, price ladder, trust proof, and the reason this product is better than scattered free content.
+1. Define the offer: niche, user pain, paid deliverable, price ladder, trust proof, and the reason this product is better than scattered free content.
 2. Build the source engine: separate owned experience, authorized material, public references, public reports, interviews, tool tests, and user-submitted cases.
 3. Create source cards: record URL or contract, author, date, license or permission status, usable scope, key points, risk notes, and what original angle will be added.
 4. Build the knowledge base: organize source cards into topic clusters, user questions, templates, examples, objections, glossary, and case notes.

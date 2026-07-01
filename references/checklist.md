@@ -2,6 +2,8 @@
 
 Score each area as `0 missing`, `1 partial`, or `2 ready`. Prioritize fixes that improve source quality, publishing speed, trust, and conversion.
 
+Ready line: `Offer`, `Source cards`, `Review`, and `Metrics` should score `2`; every other area should score at least `1`. If a score is lower, fix that area before increasing publishing frequency.
+
 | Area | Ready signal | Common fix | Verify |
 | --- | --- | --- | --- |
 | Offer | Niche, user pain, deliverable, price, and proof are clear | Rewrite the offer as one concrete transformation | Ask a target user to explain what they get |

@@ -6,6 +6,8 @@
 
 ganhuo-ai-knowledge-commerce helps creators, operators, consultants, educators, and small teams design a practical operating system for AI-assisted knowledge products. It covers source cards, knowledge bases, writing style,公众号 drafts, 知识星球 delivery, private-domain follow-up, and weekly data review.
 
+Given a niche and available source material, it returns a pipeline brief with product positioning, source-card schema, knowledge-base structure,公众号 template, 知识星球 weekly rhythm, automation boundaries, and a 30/60/90-day rollout.
+
 The goal is to improve content velocity, trust, source traceability, and paid conversion without turning AI rewriting into a shortcut for copied material.
 
 ## Key Files

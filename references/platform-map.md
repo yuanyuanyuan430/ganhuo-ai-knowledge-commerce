@@ -1,5 +1,9 @@
 # Platform Map
 
+## Publishing Gate
+
+Default every platform action to draft, pending approval, or internal review. Public publishing should use official platform capabilities, record the approver, and keep final release under human control.
+
 ## Feishu
 
 Use Feishu as the operating ledger:
