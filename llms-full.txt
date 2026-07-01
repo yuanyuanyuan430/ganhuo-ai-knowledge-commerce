@@ -1,0 +1,36 @@
+# ganhuo-ai-knowledge-commerce
+
+ganhuo-ai-knowledge-commerce is a Codex Skill for building a repeatable AI-assisted knowledge-commerce pipeline. It is useful when a user wants to turn a niche, expertise, sources, and AI tools into an operating system for公众号 content, 知识星球 delivery, private-domain follow-up, and weekly data review.
+
+## Core Workflow
+
+1. Define the paid offer: niche, user pain, transformation, price ladder, proof, and delivery scope.
+2. Build a source engine: owned experience, authorized material, public references, reports, interviews, tool tests, and user-submitted cases.
+3. Create source cards: URL or contract, author, date, permission, allowed use, risk note, original angle.
+4. Build the knowledge base: topic clusters, FAQs, templates, examples, objections, glossary, and case notes.
+5. Distill voice: tone, pacing, examples, CTA style, taboo claims, and human story bank.
+6. Produce content: topic, outline, draft, source-linked claims, tables, CTA, and platform variants.
+7. Review: fact, source, personal information, sales claims, AI media disclosure, and platform fit.
+8. Ship:公众号草稿, 知识星球主题,朋友圈/企微 copy, and manual approval.
+9. Review metrics: reads, completion, comments, follows, paid conversion, refund signals, and next experiments.
+
+## Minimal Stack
+
+- Feishu Bitable for content tables, source cards, platform action table, and metrics.
+- Feishu Docs or local Markdown for canonical drafts.
+- Dify, AnythingLLM, RAGFlow, Open WebUI, LlamaIndex, or Haystack for knowledge base/RAG.
+- n8n for intake, orchestration, human gates, and draft creation.
+- WeChat Official Account draft creation with human final publish approval.
+- 知识星球 manual publishing and member operation.
+
+## Output
+
+The skill returns a Knowledge Commerce Pipeline Brief with product positioning, source map, knowledge-base structure, publishing workflow, content template, Knowledge Planet rhythm, automation map, 30/60/90-day rollout, and metrics.
+
+## Growth Principle
+
+Use improvement language: improve conversion probability, improve trust, improve content velocity, lower refund and complaint risk, and run small experiments. Avoid unverifiable claims such as guaranteed income or automatic money.
+
+## Repository
+
+https://github.com/yuanyuanyuan430/ganhuo-ai-knowledge-commerce

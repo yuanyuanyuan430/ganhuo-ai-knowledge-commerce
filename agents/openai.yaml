@@ -1,0 +1,4 @@
+interface:
+  display_name: "干活 AI 知识付费流水线"
+  short_description: "设计公众号、飞书知识库、AI 写作、知识星球交付和复盘的可复制 SOP"
+  default_prompt: "Use $ganhuo-ai-knowledge-commerce to design a reproducible AI-assisted knowledge-commerce pipeline for this niche."

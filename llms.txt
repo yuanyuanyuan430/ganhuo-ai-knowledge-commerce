@@ -1,0 +1,29 @@
+# ganhuo-ai-knowledge-commerce
+
+> A Codex Skill for designing reproducible AI-assisted knowledge-commerce pipelines.
+
+## What It Does
+
+ganhuo-ai-knowledge-commerce helps creators, operators, consultants, educators, and small teams design a practical operating system for AI-assisted knowledge products. It covers source cards, knowledge bases, writing style,公众号 drafts, 知识星球 delivery, private-domain follow-up, and weekly data review.
+
+The goal is to improve content velocity, trust, source traceability, and paid conversion without turning AI rewriting into a shortcut for copied material.
+
+## Key Files
+
+- [README](https://github.com/yuanyuanyuan430/ganhuo-ai-knowledge-commerce#readme)
+- [Skill Instructions](https://github.com/yuanyuanyuan430/ganhuo-ai-knowledge-commerce/blob/main/SKILL.md)
+- [Checklist](https://github.com/yuanyuanyuan430/ganhuo-ai-knowledge-commerce/blob/main/references/checklist.md)
+- [Platform Map](https://github.com/yuanyuanyuan430/ganhuo-ai-knowledge-commerce/blob/main/references/platform-map.md)
+- [Source Policy](https://github.com/yuanyuanyuan430/ganhuo-ai-knowledge-commerce/blob/main/references/source-policy.md)
+
+## Best Use Cases
+
+- Design a公众号 + 知识星球 content-to-paid pipeline.
+- Turn messy research into source cards and a RAG knowledge base.
+- Build an AI-assisted daily or weekly content workflow.
+- Prepare prompts, checklists, and metrics for a knowledge-product team.
+- Improve claims, proof, publishing rhythm, and conversion loops.
+
+## Repository
+
+https://github.com/yuanyuanyuan430/ganhuo-ai-knowledge-commerce

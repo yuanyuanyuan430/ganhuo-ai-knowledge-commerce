@@ -1,0 +1,20 @@
+{
+  "name": "ganhuo-ai-knowledge-commerce",
+  "version": "1.0.0",
+  "description": "干活 AI 知识付费流水线：把来源筛选、知识库、AI 写作、公众号草稿、知识星球交付和数据复盘设计成可复制 SOP，提高内容效率、信任和转化。",
+  "author": "ganhuo-ai",
+  "license": "MIT",
+  "entry": "SKILL.md",
+  "keywords": [
+    "AI content pipeline",
+    "knowledge commerce",
+    "WeChat Official Account",
+    "Knowledge Planet",
+    "Feishu Bitable",
+    "RAG",
+    "n8n",
+    "Codex Skill",
+    "知识付费",
+    "公众号运营"
+  ]
+}
